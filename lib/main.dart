@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.orange,
       ),
-      home: MyHomePage(title: 'Flutter Dialogflow Agent'),
+      home: MyHomePage(title: 'Web3 Chatbot'),
     );
   }
 }
